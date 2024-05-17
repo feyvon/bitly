@@ -152,8 +152,8 @@ cython_debug/
 #.idea/
 
 replit_zip_error_log.txt
-.toml
-.lock
+*.toml
+*.lock
 .gitattributes
 .replit
 /bin
